@@ -9,6 +9,7 @@ theme-settings:
   footer-right: '[<i class="bi bi-github"></i> Source Code](https://github.com/surveydown-dev/template_random_options)'
 
 survey-settings:
+  mode: preview
   show-previous: true
   use-cookies: false
   auto-scroll: false
