@@ -1,6 +1,16 @@
-A template for creating [randomized](https://surveydown.org/docs/randomization.html#live-randomization) survey options.
+A template for creating randomized survey options.
 
-To create this template, run this command in your R console:
+### 🎬 Video
+
+This template has no live online demo. A video walkthrough is provided instead.
+
+### Template page
+
+https://surveydown.org/templates/random_options
+
+### Create this template
+
+Run this command in your R console:
 
 ```r
 surveydown::sd_create_survey(
@@ -9,4 +19,6 @@ surveydown::sd_create_survey(
 )
 ```
 
-Refer to the [Start with a template](https://surveydown.org/docs/getting-started#start-with-a-template) section for more details.
+### Documentation
+
+[Live randomization](https://surveydown.org/docs/randomization.html#live-randomization) · [Start with a template](https://surveydown.org/docs/getting-started#start-with-a-template)
